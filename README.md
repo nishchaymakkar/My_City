@@ -19,7 +19,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/my-city-app.git
+git clone https://github.com/nishchaymakkar/My_City.git
 Open the project in Android Studio.
 Build and run the app on your preferred device or emulator.
 Usage
